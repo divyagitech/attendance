@@ -18,7 +18,7 @@
   Pillow (version 9.1.1),
   dlib (version 19.24.0),
   
-  'Images' is a directory in which we can add the n number of images to keep the data of images.
+  'Images' is a directory in which we can add the n number of images to keep the data of images which helps us to compare the faces of attendees with the already      existing images present as a data in the directory.
   
   'main.py' is a source code file.
   
