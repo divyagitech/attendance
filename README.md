@@ -1,6 +1,6 @@
   Project Title :-  Attendance Project
   
-  Project Description:- This system will record the attendance of all the attendees with their name , date nad time of joining.
+  Project Description:- This system will record the attendance of all the attendees with their name , date and time of joining.
   
   Installed Python (version 3.10.4) 
   
